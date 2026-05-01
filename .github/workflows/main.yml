@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
     inputs:
       agent_name:
-        description: 'Hepycolds'
-        required: true
+        description: 'Hepycolds'       required: true
+        
         default: 'Hepycolds'
       agent_description:
         description: 'Hepycolds'
